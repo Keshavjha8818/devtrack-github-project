@@ -99,3 +99,11 @@ This repository is intended as a practical Git learning project. Its development
 ## License
 
 MIT. See [LICENSE](LICENSE).
+
+## Contributing
+
+1. Create a feature branch from main.
+2. Make one focused change at a time.
+3. Run the unit tests before committing.
+4. Use descriptive commit messages.
+5. Merge reviewed changes into main.
